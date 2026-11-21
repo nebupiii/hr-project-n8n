@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дозвон</string>
+    <string name="hint_number">Номер телефона</string>
+    <string name="pick_contact">Контакты</string>
+    <string name="label_attempts">Максимум попыток (0 — без ограничений)</string>
+    <string name="label_pause">Пауза между звонками, секунд</string>
+    <string name="start">Звонить до ответа</string>
+    <string name="stop">Остановить</string>
+    <string name="status_idle">Введите номер и нажмите «Звонить до ответа».</string>
+    <string name="permissions_needed">Без разрешений на звонки, состояние телефона и журнал вызовов приложение не сможет работать. Разрешите их в настройках приложения.</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="enter_number">Введите номер</string>
+    <string name="channel_progress">Дозвон</string>
+    <string name="channel_result">Результат дозвона</string>
+    <string name="log_title">Журнал</string>
+</resources>
